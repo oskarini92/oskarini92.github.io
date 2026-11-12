@@ -26,7 +26,7 @@
    ============================================================ */
 :root {
   /* Värit. KOKEILE: vaihda --vari-paa ja --vari-korostus, tallenna, katso koko sivu. */
-  --vari-paa:        #3A5696;   /* otsikot, linkit, header */
+  --vari-paa:        #939497;   /* otsikot, linkit, header */
   --vari-paa-tumma:  #22365F;   /* hover-tila, tummempi versio päävärista */
   --vari-korostus:   #FDBC00;   /* painikkeet, nav, korostukset */
   --vari-korostus-2: #FAE274;   /* vaalea korostus: mark, taustat */

@@ -702,3 +702,16 @@ body > footer p { max-width: none; }
    tulevat yllä oleviin osioihin, joten Sync fork ei tuota ristiriitoja,
    kun omat säännöt ovat täällä.
    ============================================================ */
+header img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+   .kuvan-alla {
+  background: rgb(207, 14, 120);
+  color: rgb(0, 0, 0);
+  padding: 0.5rem;
+  text-align: center;
+}
+
