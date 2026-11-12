@@ -26,11 +26,11 @@
    ============================================================ */
 :root {
   /* Värit. KOKEILE: vaihda --vari-paa ja --vari-korostus, tallenna, katso koko sivu. */
-  --vari-paa:        #3A5696;   /* otsikot, linkit, header */
-  --vari-paa-tumma:  #22365F;   /* hover-tila, tummempi versio päävärista */
-  --vari-korostus:   #FDBC00;   /* painikkeet, nav, korostukset */
-  --vari-korostus-2: #FAE274;   /* vaalea korostus: mark, taustat */
-  --vari-tausta:     #F3EBE2;   /* sivun tausta */
+  --vari-paa:        rgb(183, 226, 191);   /* otsikot, linkit, header */
+  --vari-paa-tumma: rgb(159, 211, 169);   /* hover-tila, tummempi versio päävärista */
+  --vari-korostus:  rgb(203, 224, 157);   /* painikkeet, nav, korostukset */
+  --vari-korostus-2:rgb(175, 199, 166);   /* vaalea korostus: mark, taustat */
+  --vari-tausta:   rgba(155, 196, 147, 0.24);   /* sivun tausta */
   --vari-pinta:      #FFFFFF;   /* kortit, main, lomakekentät */
   --vari-teksti:     #111111;
   --vari-teksti-2:   #585858;   /* toissijainen teksti: kuvatekstit, small */

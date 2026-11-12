@@ -51,7 +51,7 @@ Avaa `esimerkit/index.html`. Perusteet 01–08 seuraavat dioja, toteutusmallit 0
 ## Opiskelijalle
 
 1. Forkkaa tämä repo nimellä `luentomateriaali` (ohje: Forkkaus selitettynä -dokumentti Moodlessa). Julkaise Settings → Pages → Branch main / (root); osoite on `https://kayttajanimi.github.io/luentomateriaali/`.
-2. Vaihda `index.html`:n title, h1 ja sisältö omaksi.
+2. Vaihda `index.html`:n , h1 ja sisältö omaksi.
 3. Muokkaa `css/tyyli.css`:n `:root`-muuttujia: värit ja fontit vaihtuvat kerralla.
 4. Kopioi tarvitsemasi toteutusmalli `esimerkit/`-kansiosta omalle sivullesi.
 5. Kirjoita omat CSS-säännöt `css/tyyli.css`-tiedoston loppuun otsikon `===== OMAT TYYLIT =====` alle. Älä muokkaa `esimerkit/`-kansiota: opettaja päivittää sitä, ja Sync fork tuo päivitykset ilman ristiriitoja, kun omat muutoksesi ovat omissa tiedostoissasi ja tyyli.css:n lopussa.
