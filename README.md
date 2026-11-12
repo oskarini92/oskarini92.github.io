@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Default-sivut · Sakky HTML-perusteet
 
 Opettajan mallirepo, jonka opiskelija forkkaa omaksi projektikseen (ohje Moodlessa).
@@ -56,3 +57,6 @@ Avaa `esimerkit/index.html`. Perusteet 01–08 seuraavat dioja, toteutusmallit 0
 4. Kopioi tarvitsemasi toteutusmalli `esimerkit/`-kansiosta omalle sivullesi.
 5. Kirjoita omat CSS-säännöt `css/tyyli.css`-tiedoston loppuun otsikon `===== OMAT TYYLIT =====` alle. Älä muokkaa `esimerkit/`-kansiota: opettaja päivittää sitä, ja Sync fork tuo päivitykset ilman ristiriitoja, kun omat muutoksesi ovat omissa tiedostoissasi ja tyyli.css:n lopussa.
 6. Hae opettajan päivitykset jokaisen tunnin alussa: GitHub → oma repo → **Sync fork → Update branch**, sitten VS Codessa Pull.
+=======
+Olen Oskari Nissinen. Tähän tulee kuvitteellinen kompostiin palvelun verkkosivut. Sivustolle tulee kartta jossa näkyy kierrätykseen liittyviä pisteitä sekä tuote sivusto.
+>>>>>>> 292147442b73107ec6dfb05bba28f0486f0c7d6c
