@@ -10,9 +10,8 @@
 <body>
 <header>
     <!-- Logo on linkki etusivulle: a-elementin sisällä img. alt toimii linkkitekstinä. -->
-    <a href="index.html"><img src="img/sakky.jpg" alt="Logo" width="100" height="100"></a>
-
-    <h1>Default sivu</h1>
+    <a href="index.html"><img src="img/banaani.png" alt="Logo" width="100" height="100"></a>
+    <h1>Kompostiin</h1>
     
 </header>
 
@@ -20,8 +19,8 @@
 <nav>
         <ul>
             <li><a href="index.html">Palvelumme</a></li> <!-- Tämä on kommentti -->
-            <li><a href="about.html" aria-current="page">Kartalla</a></li> <!-- Tämä on tietoa sivulle linkki-->
-            <li><a href="contact.html">Kauppa</a></li> <!-- Tämä on yhteystiedot sivulle linkki -->
+            <li><a href="kartalla.html" aria-current="page">Kartalla</a></li> <!-- Tämä on tietoa sivulle linkki-->
+            <li><a href="kauppa.html">Kauppa</a></li> <!-- Tämä on yhteystiedot sivulle linkki -->
         </ul>
 </nav>
 
@@ -29,11 +28,20 @@
      MAIN · tämän sivun oma sisältö, yksi per sivu
      ============================================================ -->
 <main>
-    <h1>Tämä on kartalla.html -sivu</h1>
+    <h1>Kartalla</h1>
     <!-- Tähän voit lisätä omaa sisältöä  -->
-    <p>Tämä on oletussivu, jota voi hyödyntää vapaasti.</p>
+     <p>Morbi auctor mattis ultrices. Aliquam erat volutpat. Etiam convallis sit amet lectus sed fermentum. 
+    Nullam non purus eget leo ornare tristique interdum eu metus. Mauris convallis purus molestie tellus varius, nec consectetur sapien convallis.</p>
 
 </main>
+
+<section>
+    
+    <figure>
+      <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=27.62%2C62.88%2C27.72%2C62.91&amp;layer=mapnik" title="Kartta: Kuopio" loading="lazy"></iframe>
+      <figcaption>iframe (OpenStreetMap). aspect-ratio 16/9 pitää muodon leveydestä riippumatta.</figcaption>
+    </figure>
+</section>
 
 <!-- ============================================================
      FOOTER tulee sivun loppuun · sisältää yleensä yhteystiedot ja tekijänoikeuden, sama jokaisella sivulla
