@@ -269,7 +269,7 @@ figcaption {
 video, audio { width: 100%; border-radius: var(--kulma); }
 audio { height: 3rem; }
 iframe {
-  width: 100%;
+  width: 95%;
   aspect-ratio: 16 / 9;         /* korkeus seuraa leveyttä; YouTube-upotus pysyy oikeassa muodossa */
   height: auto;
   border: 0;
